@@ -3,9 +3,9 @@ Course project
 
 Course project of getting and cleaning data module
 
-The script uses the data from the Human Activity Recognition Using Smartphones Dataset as described below.
+The script uses the data from the Human Activity Recognition Using Smartphones Dataset as described below. Firstly, the script imports the traing and test datasets It then imports the subjects and activities linked to these two datasets Then, it replaces the activity numbers by a descriptive label It merges the training and test datasets and extracts only columns for which a mean() or a std() are present. It replaces the inital variables labels with a more descriptive and long label Finally, it calculates the average of each variable for each activity and each subject
 
-Firstly, the script imports the traing and test datasets It then imports the subjects and activities linked to these two datasets Then, it replaces the activity numbers by a descriptive label It merges the training and test datasets and extracts only columns for which a mean() or a std() are present. It replaces the inital variables labels with a more descriptive and long label Finally, it calculates the average of each variable for each activity and each subject
+
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
